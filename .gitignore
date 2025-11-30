@@ -2,3 +2,5 @@ venv/
 *.csv
 __pycache__/
 .ipynb_checkpoints/
+house_price_prediction_backup.ipynb
+notlar.txt
